@@ -1,0 +1,1 @@
+from jdic import Client, WordRequestHandler, KanjiRequestHandler, HttpRequest, SearchType
